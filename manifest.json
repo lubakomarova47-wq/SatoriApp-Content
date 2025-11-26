@@ -1,28 +1,27 @@
 {
   "meditations": [
     {
-      "id": "test_meditation_1",
-      "title": "Тестовая медитация",
-      "duration": 600,
-      "fileName": "test_meditation.mp3"
+      "id": "med_beginner_1",
+      "title": "Дыхание для начинающих",      "duration": 300,
+      "fileName": "beginner1.mp3",
+      "level": "beginner",
+      "imageUrl": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg"
     },
     {
-      "id": "med_istina",
-      "title": "Медитация истинного Я",
-      "duration": 790,
-      "fileName": "med_istina.mp3"
+      "id": "med_intermediate_1",
+      "title": "Сканирование тела",
+      "duration": 900,
+      "fileName": "intermediate1.mp3",
+      "level": "intermediate",
+      "imageUrl": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
     },
     {
-      "id": "med_odnj",
-      "title": "Осознанная медитация на расслабление живота",
-      "duration": 960,
-      "fileName": "med_odnj.mp3"
-    },
-    {
-      "id": "med_pokoi",
-      "title": "Медитация покоя",
-      "duration": 722,
-      "fileName": "med_pokoi.mp3"
+      "id": "med_pro_1",
+      "title": "Медитация Випассана",
+      "duration": 1800,
+      "fileName": "pro1.mp3",
+      "level": "pro",
+      "imageUrl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg"
     }
   ]
 }
