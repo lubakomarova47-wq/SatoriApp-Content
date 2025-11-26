@@ -32,5 +32,31 @@
       "level": "pro",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png"
     }
+  ],
+  "sleep_stories": [
+    {
+      "id": "forest_creek",
+      "title": "Лесной ручей",
+      "subtitle": "Успокаивающие звуки природы",
+      "audioFileName": "forest_creek.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4784339/4784339-hd.mp4"
+    },
+    {
+      "id": "starry_night",
+      "title": "Звездная ночь",
+      "subtitle": "Космическая колыбельная",
+      "audioFileName": "starry_night.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/853874/853874-hd.mp4"
+    },
+    {
+      "id": "ocean_waves",
+      "title": "Океанский прибой",
+      "subtitle": "Глубокий сон под шум волн",
+      "audioFileName": "ocean_waves.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
+    }
   ]
 }
