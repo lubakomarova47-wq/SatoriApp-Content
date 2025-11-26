@@ -13,7 +13,7 @@
       "duration": 722,
       "fileName": "med_pokoi.mp3",
       "level": "beginner",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png"
     },
     {
       "id": "med_odnj",
@@ -21,7 +21,7 @@
       "duration": 960,
       "fileName": "med_odnj.mp3",
       "level": "intermediate",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png"
     },
     {
       "id": "med_istina",
@@ -29,7 +29,7 @@
       "duration": 790,
       "fileName": "med_istina.mp3",
       "level": "pro",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png"
     }
   ]
 }
