@@ -3,10 +3,9 @@
     {
       "id": "test_meditation_1",
       "title": "Тестовая медитация",
-      "duration": 600,
-      "fileName": "test_meditation.mp3",
+      "duration": 600,      "fileName": "test_meditation.mp3",
       "level": "beginner",
-      "imageUrl": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_test.jpg"
     },
     {
       "id": "med_pokoi",
@@ -14,7 +13,7 @@
       "duration": 722,
       "fileName": "med_pokoi.mp3",
       "level": "beginner",
-      "imageUrl": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.jpg"
     },
     {
       "id": "med_odnj",
@@ -22,7 +21,7 @@
       "duration": 960,
       "fileName": "med_odnj.mp3",
       "level": "intermediate",
-      "imageUrl": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.jpg"
     },
     {
       "id": "med_istina",
@@ -30,7 +29,7 @@
       "duration": 790,
       "fileName": "med_istina.mp3",
       "level": "pro",
-      "imageUrl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.jpg"
     }
   ]
 }
