@@ -1,9 +1,28 @@
 {
-  "meditations": [{
+  "meditations": [
+    {
       "id": "test_meditation_1",
       "title": "Тестовая медитация",
       "duration": 600,
       "fileName": "test_meditation.mp3"
+    },
+    {
+      "id": "med_istina",
+      "title": "Медитация истинного Я",
+      "duration": 790,
+      "fileName": "med_istina.mp3"
+    }
+    {
+      "id": "med_odnj",
+      "title": "Осознанная медитация на расслабление живота",
+      "duration": 960,
+      "fileName": "med_odnj.mp3"
+    }
+    {
+      "id": "med_pokoi",
+      "title": "Медитация покоя",
+      "duration": 722,
+      "fileName": "med_pokoi.mp3"
     }
   ]
 }
