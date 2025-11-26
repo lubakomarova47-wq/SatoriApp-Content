@@ -3,7 +3,8 @@
     {
       "id": "test_meditation_1",
       "title": "Тестовая медитация",
-      "duration": 600,      "fileName": "test_meditation.mp3",
+      "duration": 600,
+      "fileName": "test_meditation.mp3",
       "level": "beginner",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_test.png"
     },
