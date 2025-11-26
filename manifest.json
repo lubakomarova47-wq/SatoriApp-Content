@@ -3,9 +3,10 @@
     {
       "id": "test_meditation_1",
       "title": "Тестовая медитация",
-      "duration": 600,      "fileName": "test_meditation.mp3",
+      "duration": 600,
+      "fileName": "test_meditation.mp3",
       "level": "beginner",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_test.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_test.png"
     },
     {
       "id": "med_pokoi",
@@ -13,7 +14,7 @@
       "duration": 722,
       "fileName": "med_pokoi.mp3",
       "level": "beginner",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png"
     },
     {
       "id": "med_odnj",
@@ -21,7 +22,7 @@
       "duration": 960,
       "fileName": "med_odnj.mp3",
       "level": "intermediate",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png"
     },
     {
       "id": "med_istina",
@@ -29,7 +30,33 @@
       "duration": 790,
       "fileName": "med_istina.mp3",
       "level": "pro",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png"
+    }
+  ],
+  "sleep_stories": [
+    {
+      "id": "forest_creek",
+      "title": "Лесной ручей",
+      "subtitle": "Успокаивающие звуки природы",
+      "audioFileName": "forest_creek.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4784339/4784339-hd.mp4"
+    },
+    {
+      "id": "starry_night",
+      "title": "Звездная ночь",
+      "subtitle": "Космическая колыбельная",
+      "audioFileName": "starry_night.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/853874/853874-hd.mp4"
+    },
+    {
+      "id": "ocean_waves",
+      "title": "Океанский прибой",
+      "subtitle": "Глубокий сон под шум волн",
+      "audioFileName": "ocean_waves.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
     }
   ]
 }
