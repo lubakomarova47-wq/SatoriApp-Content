@@ -1,9 +1,36 @@
 {
-  "meditations": [{
+  "meditations": [
+    {
       "id": "test_meditation_1",
       "title": "Тестовая медитация",
       "duration": 600,
-      "fileName": "test_meditation.mp3"
+      "fileName": "test_meditation.mp3",
+      "level": "beginner",
+      "imageUrl": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg"
+    },
+    {
+      "id": "med_pokoi",
+      "title": "Медитация покоя",
+      "duration": 722,
+      "fileName": "med_pokoi.mp3",
+      "level": "beginner",
+      "imageUrl": "https://images.pexels.com/photos/1420440/pexels-photo-1420440.jpeg"
+    },
+    {
+      "id": "med_odnj",
+      "title": "Осознанная медитация на расслабление живота",
+      "duration": 960,
+      "fileName": "med_odnj.mp3",
+      "level": "intermediate",
+      "imageUrl": "https://images.pexels.com/photos/15286/pexels-photo.jpg"
+    },
+    {
+      "id": "med_istina",
+      "title": "Медитация истинного Я",
+      "duration": 790,
+      "fileName": "med_istina.mp3",
+      "level": "pro",
+      "imageUrl": "https://images.pexels.com/photos/3408744/pexels-photo-3408744.jpeg"
     }
   ]
 }
