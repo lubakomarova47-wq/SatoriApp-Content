@@ -1,4 +1,6 @@
- {
+{
+  "meditations": [
+    {
       "id": "med_pokoi",
       "title": "Медитация покоя",
       "duration": 722,
@@ -46,31 +48,4 @@
       "subtitle": "Дождливое настроение",
       "audioFileName": "sleep_rain.mp3",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
-      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
-    },
-    {
-      "id": "sleep_ocean",
-      "title": "Мелодия океана",
-      "subtitle": "Ангельский нежный голос",
-      "audioFileName": "sleep_ocean.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
-      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
-    },
-    {
-      "id": "sleep_stream",
-      "title": "Лесной ручей",
-      "subtitle": "Покой прохладного леса",
-      "audioFileName": "sleep_stream.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
-      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
-    },
-    {
-      "id": "sleep_fire",
-      "title": "Тепло у камина",
-      "subtitle": "Теплый покой",
-      "audioFileName": "sleep_fire.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
-      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
-    }
-  ]
-}
+      "videoUrl": "
