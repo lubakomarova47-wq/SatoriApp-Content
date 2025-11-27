@@ -51,11 +51,19 @@
       "videoUrl": "https://videos.pexels.com/video-files/853874/853874-hd.mp4"
     },
     {
-      "id": "ocean_waves",
-      "title": "Океанский прибой",
-      "subtitle": "Глубокий сон под шум волн",
-      "audioFileName": "ocean_waves.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean.jpg",
+      "id": "sleep_rain",
+      "title": "Мелодия дождя",
+      "subtitle": "Дождливое настроение",
+      "audioFileName": "sleep_rain.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
+    },
+    {
+      "id": "sleep_ocean",
+      "title": "Мелодия океана",
+      "subtitle": "Ангельский нежный голос",
+      "audioFileName": "sleep_ocean.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
       "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
     }
   ]
