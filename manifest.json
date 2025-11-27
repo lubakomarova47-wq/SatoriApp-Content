@@ -1,6 +1,7 @@
 {
   "meditations": [
-    {"id": "med_pokoi",
+    {
+      "id": "med_pokoi",
       "title": "Медитация покоя",
       "duration": 722,
       "fileName": "med_pokoi.mp3",
