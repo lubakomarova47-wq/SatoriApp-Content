@@ -74,5 +74,23 @@
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
       "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
     }
+  ],
+  "mantras": [
+    {
+      "id": "om_adi",
+      "title": "Мантра Ади Шакти",
+      "subtitle": "Мощная мантра силы и здоровья",
+      "audioFileName": "om_adi.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4784339/4784339-hd.mp4"
+    },
+    {
+      "id": "om_ganesha",
+      "title": "Мантра Ганеша",
+      "subtitle": "На богатство и удачу",
+      "audioFileName": "om_ganesha.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4784339/4784339-hd.mp4"
+    }
   ]
 }
