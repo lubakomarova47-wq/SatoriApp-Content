@@ -36,10 +36,10 @@
   "sleep_stories": [
     {
       "id": "forest_creek",
-      "title": "Лесной ручей",
-      "subtitle": "Успокаивающие звуки природы",
+      "title": "Засыпающий лес",
+      "subtitle": "Успокаивающие звуки",
       "audioFileName": "forest_creek.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
       "videoUrl": "https://videos.pexels.com/video-files/4784339/4784339-hd.mp4"
     },
     {
@@ -72,6 +72,14 @@
       "subtitle": "Покой прохладного леса",
       "audioFileName": "sleep_stream.mp3",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
+      "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
+    },
+    {
+      "id": "sleep_fire",
+      "title": "Тепло у камина",
+      "subtitle": "Теплый покой",
+      "audioFileName": "sleep_fire.mp3",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
       "videoUrl": "https://videos.pexels.com/video-files/4434240/4434240-hd.mp4"
     }
   ]
