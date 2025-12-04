@@ -73,42 +73,42 @@
       "title": "Глубокий покой",
       "subtitle": "Спокоиствие медитации",
       "audioFileName": "sleep_med1.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png"
     },
     {
       "id": "sleep_med2",
       "title": "Просторная тема",
       "subtitle": "Растворение в пространстве",
       "audioFileName": "sleep_med2.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png"
     },
     {
       "id": "sleep_med3",
       "title": "Уютный путь",
       "subtitle": "Тепло движения",
       "audioFileName": "sleep_med3.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png"
     },
     {
       "id": "sleep_med4",
       "title": "Дальний космос",
       "subtitle": "Безграничная даль",
       "audioFileName": "sleep_med4.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png"
     },
     {
       "id": "sleep_med5",
       "title": "Лунный сон",
       "subtitle": "Фантазия ночи",
       "audioFileName": "sleep_med5.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.png"
     },
     {
       "id": "sleep_piano",
       "title": "приятные клавиши",
       "subtitle": "Классика раслабления",
       "audioFileName": "sleep_piano.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png"
     }
   ],
   "mantras": [
