@@ -3,52 +3,42 @@
     {
       "id": "med_pokoi",
       "title": "Медитация покоя",
-      "duration": 722,
-      "fileName": "med_pokoi.mp3",
-      "level": "beginner",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png"
-      "epochId": 4
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png",
+      "epochId": 4,
+      "fileName": "med_pokoi.mp3"
     },
     {
       "id": "med_odnj",
       "title": "Осознанная медитация на расслабление живота",
-      "duration": 960,
-      "fileName": "med_odnj.mp3",
-      "level": "intermediate",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png"
-      "epochId": 4
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png",
+      "epochId": 4,
+      "fileName": "med_odnj.mp3"
     },
     {
       "id": "med_new",
       "title": "Легкая медитация",
-      "duration": 240,
-      "level": "new",
-      "epochId": 0
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png"
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png",
+      "epochId": 0,
       "voiceVariants": [
-    {
-      "gender": "female",
-      "title": "Женский голос",
+        {
+          "gender": "female",
+          "title": "Женский голос",
+          "fileName": "med_new_female.mp3"
+        },
+        {
+          "gender": "male",
+          "title": "Мужской голос",
+          "fileName": "med_new_male.mp3"
+        }
+      ],
       "fileName": "med_new_female.mp3"
-    },
-    {
-      "gender": "male",
-      "title": "Мужской голос",
-      "fileName": "med_new_male.mp3"
-    }
-  ],
-
-  // Оставьте это для совместимости, пока мы не обновим всё полностью
-  "fileName": "med_new_female.mp3"
     },
     {
       "id": "med_istina",
       "title": "Медитация истинного Я",
-      "duration": 790,
-      "fileName": "med_istina.mp3",
-      "level": "pro",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png"
-      "epochId": 7
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png",
+      "epochId": 7,
+      "fileName": "med_istina.mp3"
     }
   ],
   "sleep_stories": [
@@ -56,85 +46,97 @@
       "id": "forest_creek",
       "title": "Засыпающий лес",
       "subtitle": "Успокаивающие звуки",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
       "audioFileName": "forest_creek.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg"
+      "epochId": 0
     },
     {
       "id": "starry_night",
       "title": "Звездная ночь",
       "subtitle": "Космическая колыбельная",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
       "audioFileName": "starry_night.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_rain",
       "title": "Мелодия дождя",
       "subtitle": "Дождливое настроение",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
       "audioFileName": "sleep_rain.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_ocean",
       "title": "Мелодия океана",
       "subtitle": "Ангельский нежный голос",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
       "audioFileName": "sleep_ocean.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_stream",
       "title": "Лесной ручей",
       "subtitle": "Покой прохладного леса",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
       "audioFileName": "sleep_stream.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_fire",
       "title": "Тепло у камина",
       "subtitle": "Теплый покой",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
       "audioFileName": "sleep_fire.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_med1",
       "title": "Глубокий покой",
       "subtitle": "Спокоиствие медитации",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png",
       "audioFileName": "sleep_med1.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png"
+      "epochId": 0
     },
     {
       "id": "sleep_med2",
       "title": "Просторная тема",
       "subtitle": "Растворение в пространстве",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png",
       "audioFileName": "sleep_med2.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png"
+      "epochId": 0
     },
     {
       "id": "sleep_med3",
       "title": "Уютный путь",
       "subtitle": "Тепло движения",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png",
       "audioFileName": "sleep_med3.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png"
+      "epochId": 0
     },
     {
       "id": "sleep_med4",
       "title": "Дальний космос",
       "subtitle": "Безграничная даль",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png",
       "audioFileName": "sleep_med4.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png"
+      "epochId": 0
     },
     {
       "id": "sleep_med5",
       "title": "Лунный сон",
       "subtitle": "Фантазия ночи",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg",
       "audioFileName": "sleep_med5.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg"
+      "epochId": 0
     },
     {
       "id": "sleep_piano",
       "title": "приятные клавиши",
       "subtitle": "Классика раслабления",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png",
       "audioFileName": "sleep_piano.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png"
+      "epochId": 0
     }
   ],
   "mantras": [
@@ -142,15 +144,17 @@
       "id": "om_adi",
       "title": "Мантра Ади Шакти",
       "subtitle": "Мощная мантра силы и здоровья",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
       "audioFileName": "om_adi.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg"
+      "epochId": 0
     },
     {
       "id": "om_ganesha",
       "title": "Мантра Ганеша",
       "subtitle": "На богатство и удачу",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
       "audioFileName": "om_ganesha.mp3",
-      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg"
+      "epochId": 0
     }
   ]
 }
