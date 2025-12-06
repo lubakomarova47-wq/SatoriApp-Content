@@ -47,84 +47,84 @@
       "title": "Засыпающий лес",
       "subtitle": "Успокаивающие звуки",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
-      "audioFileName": "forest_creek.mp3",
+      "audioFileName": "forest_creek.mp3"
     },
     {
       "id": "starry_night",
       "title": "Звездная ночь",
       "subtitle": "Космическая колыбельная",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
-      "audioFileName": "starry_night.mp3",
+      "audioFileName": "starry_night.mp3"
     },
     {
       "id": "sleep_rain",
       "title": "Мелодия дождя",
       "subtitle": "Дождливое настроение",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
-      "audioFileName": "sleep_rain.mp3",
+      "audioFileName": "sleep_rain.mp3"
     },
     {
       "id": "sleep_ocean",
       "title": "Мелодия океана",
       "subtitle": "Ангельский нежный голос",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
-      "audioFileName": "sleep_ocean.mp3",
+      "audioFileName": "sleep_ocean.mp3"
     },
     {
       "id": "sleep_stream",
       "title": "Лесной ручей",
       "subtitle": "Покой прохладного леса",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
-      "audioFileName": "sleep_stream.mp3",
+      "audioFileName": "sleep_stream.mp3"
     },
     {
       "id": "sleep_fire",
       "title": "Тепло у камина",
       "subtitle": "Теплый покой",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
-      "audioFileName": "sleep_fire.mp3",
+      "audioFileName": "sleep_fire.mp3"
     },
     {
       "id": "sleep_med1",
       "title": "Глубокий покой",
       "subtitle": "Спокоиствие медитации",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png",
-      "audioFileName": "sleep_med1.mp3",
+      "audioFileName": "sleep_med1.mp3"
     },
     {
       "id": "sleep_med2",
       "title": "Просторная тема",
       "subtitle": "Растворение в пространстве",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png",
-      "audioFileName": "sleep_med2.mp3",
+      "audioFileName": "sleep_med2.mp3"
     },
     {
       "id": "sleep_med3",
       "title": "Уютный путь",
       "subtitle": "Тепло движения",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png",
-      "audioFileName": "sleep_med3.mp3",
+      "audioFileName": "sleep_med3.mp3"
     },
     {
       "id": "sleep_med4",
       "title": "Дальний космос",
       "subtitle": "Безграничная даль",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png",
-      "audioFileName": "sleep_med4.mp3",
+      "audioFileName": "sleep_med4.mp3"
     },
     {
       "id": "sleep_med5",
       "title": "Лунный сон",
       "subtitle": "Фантазия ночи",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg",
-      "audioFileName": "sleep_med5.mp3",
+      "audioFileName": "sleep_med5.mp3"
     },
     {
       "id": "sleep_piano",
       "title": "Приятные клавиши",
       "subtitle": "Классика раслабления",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png",
-      "audioFileName": "sleep_piano.mp3",
+      "audioFileName": "sleep_piano.mp3"
     }
   ],
   "mantras": [
@@ -133,14 +133,14 @@
       "title": "Мантра Ади Шакти",
       "subtitle": "Мощная мантра силы и здоровья",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
-      "audioFileName": "om_adi.mp3",
+      "audioFileName": "om_adi.mp3"
     },
     {
       "id": "om_ganesha",
       "title": "Мантра Ганеша",
       "subtitle": "На богатство и удачу",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
-      "audioFileName": "om_ganesha.mp3",
+      "audioFileName": "om_ganesha.mp3"
     }
   ]
 }
