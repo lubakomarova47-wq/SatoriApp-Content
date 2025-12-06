@@ -7,6 +7,7 @@
       "fileName": "med_pokoi.mp3",
       "level": "beginner",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png"
+      "epochId": 4
     },
     {
       "id": "med_odnj",
@@ -15,6 +16,30 @@
       "fileName": "med_odnj.mp3",
       "level": "intermediate",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png"
+      "epochId": 4
+    },
+    {
+      "id": "med_new",
+      "title": "Легкая медитация",
+      "duration": 240,
+      "level": "new",
+      "epochId": 0
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png"
+      "voiceVariants": [
+    {
+      "gender": "female",
+      "title": "Женский голос",
+      "fileName": "med_new_female.mp3"
+    },
+    {
+      "gender": "male",
+      "title": "Мужской голос",
+      "fileName": "med_new_male.mp3"
+    }
+  ],
+
+  // Оставьте это для совместимости, пока мы не обновим всё полностью
+  "fileName": "med_new_female.mp3"
     },
     {
       "id": "med_istina",
@@ -23,6 +48,7 @@
       "fileName": "med_istina.mp3",
       "level": "pro",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png"
+      "epochId": 7
     }
   ],
   "sleep_stories": [
