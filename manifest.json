@@ -16,9 +16,9 @@
     },
     {
       "id": "med_new",
-      "title": "Легкая медитация",
+      "title": "Дыхание и тело",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png",
-      "epochId": 0,
+      "epochId": 2,
       "voiceVariants": [
         {
           "gender": "female",
@@ -32,6 +32,44 @@
         }
       ],
       "fileName": "med_new_female.mp3"
+    },
+    {
+      "id": "med_breath",
+      "title": "Дыхание",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_breath.png",
+      "epochId": 0,
+      "voiceVariants": [
+        {
+          "gender": "female",
+          "title": "Женский голос",
+          "fileName": "med_breath_female.mp3"
+        },
+        {
+          "gender": "male",
+          "title": "Мужской голос",
+          "fileName": "med_breath_male.mp3"
+        }
+      ],
+      "fileName": "med_breath_female.mp3"
+    },
+    {
+      "id": "med_body",
+      "title": "Тело",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_body.png",
+      "epochId": 1,
+      "voiceVariants": [
+        {
+          "gender": "female",
+          "title": "Женский голос",
+          "fileName": "med_body_female.mp3"
+        },
+        {
+          "gender": "male",
+          "title": "Мужской голос",
+          "fileName": "med_body_male.mp3"
+        }
+      ],
+      "fileName": "med_body_female.mp3"
     },
     {
       "id": "med_istina",
