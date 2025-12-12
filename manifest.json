@@ -16,7 +16,7 @@
     },
     {
       "id": "med_new",
-      "title": "Дыхание и тело",
+      "title": "На дыхание и тело",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png",
       "epochId": 2,
       "voiceVariants": [
@@ -35,7 +35,7 @@
     },
     {
       "id": "med_breath",
-      "title": "Дыхание",
+      "title": "На дыхание",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_breath.png",
       "epochId": 0,
       "voiceVariants": [
@@ -54,7 +54,7 @@
     },
     {
       "id": "med_body",
-      "title": "Тело",
+      "title": "На ощущения в теле",
       "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_body.png",
       "epochId": 1,
       "voiceVariants": [
