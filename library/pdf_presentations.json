@@ -1,12 +1,12 @@
 {
   "items": [
     {
-      "id": "pdf_who_am_i",
+      "id": "pdf1",
       "type": "pdf",
       "title": "Кто есть я? (Нан Яр?)",
       "author": "Шри Рамана Махарши",
       "coverUrl": "content/library/covers/who_am_i.jpg",
-      "contentUrl": "https://www.gururamana.org/Resources/Books/Who_am_I_Russian_question-answer_vers.pdf",
+      "contentUrl": "https://github.com/lubakomarova47-wq/SatoriApp-Content/blob/main/library/pdf1.pdf",
       "description": "Базовое наставление по самоисследованию (Атма-вичара) в форме вопросов и ответов."
     },
     {
