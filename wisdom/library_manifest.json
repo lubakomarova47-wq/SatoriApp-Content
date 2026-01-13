@@ -1,0 +1,14 @@
+﻿{
+  "sections": [
+    {
+      "id": "books_section",
+      "title": "Книги и Статьи",
+      "url": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/wisdom/books.json"
+    },
+    {
+      "id": "podcasts_section",
+      "title": "Подкасты",
+      "url": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/wisdom/podcasts.json"
+    }
+  ]
+}

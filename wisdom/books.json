@@ -1,0 +1,38 @@
+﻿{
+  "items": [
+    {
+      "id": "book1",
+      "type": "pdf",
+      "title": "Книга 1",
+      "author": "Неизвестный автор",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/book1.pdf",
+      "coverUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/authors/buddha.jpg",
+      "description": "Описание книги 1"
+    },
+    {
+      "id": "pdf1",
+      "type": "pdf",
+      "title": "Документ 1",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf1.pdf",
+      "description": "Описание документа 1"
+    },
+    {
+      "id": "pdf2",
+      "type": "pdf",
+      "title": "Документ 2",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf2.pdf"
+    },
+    {
+      "id": "pdf3",
+      "type": "pdf",
+      "title": "Документ 3",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf3.pdf"
+    },
+    {
+      "id": "pdf4",
+      "type": "pdf",
+      "title": "Документ 4",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf4.pdf"
+    }
+  ]
+}
