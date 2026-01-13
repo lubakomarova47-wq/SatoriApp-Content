@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "pdf1",
+      "type": "pdf",
+      "title": "Кто есть я? (Нан Яр?)",
+      "author": "Шри Рамана Махарши",
+      "coverUrl": "raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png",
+      "contentUrl": "https://github.com/lubakomarova47-wq/SatoriApp-Content/blob/main/library/pdf1.pdf",
+      "description": "Базовое наставление по самоисследованию (Атма-вичара) в форме вопросов и ответов."
+    },
+    {
+      "id": "pdf_bhagavadgita_smirnov",
+      "type": "pdf",
+      "title": "Бхагавадгита (Буквальный перевод)",
+      "author": "Б. Л. Смирнов",
+      "coverUrl": "content/library/covers/gita_smirnov.jpg",
+      "contentUrl": "http://www.nirmalayoga.org.ua/materials/Bhagavadgita_(Smirnov).pdf",
+      "description": "Академический перевод философской жемчужины Махабхараты с подробными комментариями."
+    },
+    {
+      "id": "pdf_atharvaveda",
+      "type": "pdf",
+      "title": "Атхарваведа (Мандалы I—VII)",
+      "author": "Т. Я. Елизаренкова",
+      "coverUrl": "content/library/covers/atharvaveda.jpg",
+      "contentUrl": "https://book.ivran.ru/f/elizarenkova-atharvaveda-1t.pdf",
+      "description": "Первый полный перевод древнейшего памятника индийской словесности на русский язык."
+    },
+    {
+      "id": "pdf_upanishads_syrikin",
+      "type": "pdf",
+      "title": "Упанишады (Книга 1)",
+      "author": "А. Я. Сыркин",
+      "coverUrl": "content/library/covers/upanishads.jpg",
+      "contentUrl": "https://in.yoga/wp-content/uploads/2021/10/%D0%A3%D0%BF%D0%B0%D0%BD%D0%B8%D1%88%D0%B0%D0%B4%D1%8B-%D0%B2-3-%D1%85-%D0%BA%D0%BD.-%D0%BA%D0%BD.1-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA%D0%B8-%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%82%D1%83%D1%80%D1%8B-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BE%D0%B2-%D0%92%D0%BE%D1%81%D1%82%D0%BE%D0%BA%D0%B0-1991.pdf",
+      "description": "Брихадараньяка и Чхандогья упанишады — древнейшие философские трактаты."
+    }
+  ]
+}
