@@ -3,36 +3,39 @@
     {
       "id": "book1",
       "type": "pdf",
-      "title": "Книга 1",
-      "author": "Неизвестный автор",
+      "title": "Кто я? Суть учения Раманы Махарши",
+      "author": "Шри Рамана Махарши",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/book1.pdf",
       "coverUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/authors/buddha.jpg",
-      "description": "Описание книги 1"
+      "description": "Фундаментальный труд по практике Самоисследования (Атма-вичара) и природе Истинного Я."
     },
     {
       "id": "pdf1",
       "type": "pdf",
-      "title": "Документ 1",
+      "title": "Методология LUNA: От физиологии к нейропластичности",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf1.pdf",
-      "description": "Описание документа 1"
+      "description": "Прогрессия сознания: создание устойчивого внутреннего состояния через работу с ВНС и лимбическими контурами."
     },
     {
       "id": "pdf2",
       "type": "pdf",
-      "title": "Документ 2",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf2.pdf"
+      "title": "Эволюция практики: От ритуала к нейронауке",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf2.pdf",
+      "description": "Научный анализ технологий сознания: синтез древних практик и современных методов КПТ и ACT."
     },
     {
       "id": "pdf3",
       "type": "pdf",
-      "title": "Документ 3",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf3.pdf"
+      "title": "Путь прозрения: Йога-сутры и современная наука",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf3.pdf",
+      "description": "Комплексный анализ восьмиступенчатой йоги Патанджали и физиологическое воздействие медитации."
     },
     {
       "id": "pdf4",
       "type": "pdf",
-      "title": "Документ 4",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf4.pdf"
+      "title": "Тишина и Метод: Демистификация духовного поиска",
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/pdf4.pdf",
+      "description": "Аналитический срез методологий поиска истины: от социального конструирования сакрального до секулярного майндфулнесс."
     }
   ]
 }

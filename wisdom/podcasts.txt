@@ -3,56 +3,56 @@
     {
       "id": "podkast1",
       "type": "podcast",
-      "title": "Подкаст 1",
+      "title": "Архитектура разума: Протокол LUNA и нейропластичность",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast1.mp4",
       "duration": "10:00"
     },
     {
       "id": "podkast2",
       "type": "podcast",
-      "title": "Подкаст 2",
+      "title": "История Раманы Махарши: Жизнь как пребывание",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast2.m4a"
     },
     {
       "id": "podkast3",
       "type": "podcast",
-      "title": "Подкаст 3",
+      "title": "Синтез мудрости: Адвайта, КПТ и Нейронаука",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast3.m4a"
     },
     {
       "id": "podkast4",
       "type": "podcast",
-      "title": "Подкаст 4",
+      "title": "Йога-сутры Патанджали: Путь от аскезы к осознанности",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast4.m4a"
     },
     {
       "id": "podkast5",
       "type": "podcast",
-      "title": "Подкаст 5",
+      "title": "Метод «Кто я?»: Практика Самоисследования",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast5.m4a"
     },
     {
       "id": "podkast6",
       "type": "podcast",
-      "title": "Подкаст 6",
+      "title": "Веды и Упанишады: Эволюция поиска Истины",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast6.m4a"
     },
     {
       "id": "podkast7",
       "type": "podcast",
-      "title": "Подкаст 7",
+      "title": "Адвайта Веданта Шанкары: Природа Реальности и Майя",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast7.m4a"
     },
     {
       "id": "podkast8",
       "type": "podcast",
-      "title": "Подкаст 8",
+      "title": "Революция Упанишад: Ты есть То (Tat Tvam Asi)",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast8.m4a"
     },
     {
       "id": "podkast9",
       "type": "podcast",
-      "title": "Подкаст 9",
+      "title": "Шанкара и Рамана Махарши: Карта и Территория",
       "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast9.m4a"
     }
   ]
