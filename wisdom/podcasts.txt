@@ -11,49 +11,57 @@
       "id": "podkast2",
       "type": "podcast",
       "title": "История Раманы Махарши: Жизнь как пребывание",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast2.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast2.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast3",
       "type": "podcast",
       "title": "Синтез мудрости: Адвайта, КПТ и Нейронаука",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast3.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast3.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast4",
       "type": "podcast",
       "title": "Йога-сутры Патанджали: Путь от аскезы к осознанности",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast4.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast4.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast5",
       "type": "podcast",
       "title": "Метод «Кто я?»: Практика Самоисследования",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast5.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast5.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast6",
       "type": "podcast",
       "title": "Веды и Упанишады: Эволюция поиска Истины",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast6.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast6.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast7",
       "type": "podcast",
       "title": "Адвайта Веданта Шанкары: Природа Реальности и Майя",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast7.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast7.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast8",
       "type": "podcast",
       "title": "Революция Упанишад: Ты есть То (Tat Tvam Asi)",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast8.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast8.m4a",
+      "duration": "15:00"
     },
     {
       "id": "podkast9",
       "type": "podcast",
       "title": "Шанкара и Рамана Махарши: Карта и Территория",
-      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast9.m4a"
+      "contentUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/library/podkast9.m4a",
+      "duration": "15:00"
     }
   ]
 }
