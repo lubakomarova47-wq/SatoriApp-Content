@@ -8,7 +8,13 @@
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png",
             "epochId": 4,
-            "fileName": "med_pokoi.mp3"
+            "audioUrl": {
+                "ru": "med_pokoi.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         },
         {
             "id": "med_odnj",
@@ -18,7 +24,13 @@
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png",
             "epochId": 4,
-            "fileName": "med_odnj.mp3"
+            "audioUrl": {
+                "ru": "med_odnj.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         },
         {
             "id": "med_new",
@@ -35,7 +47,10 @@
                         "ru": "Женский голос",
                         "en": "Female voice"
                     },
-                    "fileName": "med_new_female.mp3"
+                    "audioUrl": {
+                        "ru": "med_new_female.mp3",
+                        "en": null
+                    }
                 },
                 {
                     "gender": "male",
@@ -43,10 +58,19 @@
                         "ru": "Мужской голос",
                         "en": "Male voice"
                     },
-                    "fileName": "med_new_male.mp3"
+                    "audioUrl": {
+                        "ru": "med_new_male.mp3",
+                        "en": null
+                    }
                 }
             ],
-            "fileName": "med_new_female.mp3"
+            "audioUrl": {
+                "ru": "med_new_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         },
         {
             "id": "med_breath",
@@ -63,7 +87,10 @@
                         "ru": "Женский голос",
                         "en": "Female voice"
                     },
-                    "fileName": "med_breath_female.mp3"
+                    "audioUrl": {
+                        "ru": "med_breath_female.mp3",
+                        "en": null
+                    }
                 },
                 {
                     "gender": "male",
@@ -71,10 +98,19 @@
                         "ru": "Мужской голос",
                         "en": "Male voice"
                     },
-                    "fileName": "med_breath_male.mp3"
+                    "audioUrl": {
+                        "ru": "med_breath_male.mp3",
+                        "en": null
+                    }
                 }
             ],
-            "fileName": "med_breath_female.mp3"
+            "audioUrl": {
+                "ru": "med_breath_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         },
         {
             "id": "med_body",
@@ -91,7 +127,10 @@
                         "ru": "Женский голос",
                         "en": "Female voice"
                     },
-                    "fileName": "med_body_female.mp3"
+                    "audioUrl": {
+                        "ru": "med_body_female.mp3",
+                        "en": null
+                    }
                 },
                 {
                     "gender": "male",
@@ -99,10 +138,19 @@
                         "ru": "Мужской голос",
                         "en": "Male voice"
                     },
-                    "fileName": "med_body_male.mp3"
+                    "audioUrl": {
+                        "ru": "med_body_male.mp3",
+                        "en": null
+                    }
                 }
             ],
-            "fileName": "med_body_female.mp3"
+            "audioUrl": {
+                "ru": "med_body_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         },
         {
             "id": "med_istina",
@@ -112,7 +160,13 @@
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png",
             "epochId": 7,
-            "fileName": "med_istina.mp3"
+            "audioUrl": {
+                "ru": "med_istina.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
         }
     ],
     "sleep_stories": [
@@ -127,7 +181,8 @@
                 "en": "Soothing sounds"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
-            "audioFileName": "forest_creek.mp3"
+            "audioFileName": "forest_creek.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "starry_night",
@@ -140,7 +195,8 @@
                 "en": "Cosmic lullaby"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
-            "audioFileName": "starry_night.mp3"
+            "audioFileName": "starry_night.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_rain",
@@ -153,7 +209,8 @@
                 "en": "Rainy mood"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
-            "audioFileName": "sleep_rain.mp3"
+            "audioFileName": "sleep_rain.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_ocean",
@@ -166,7 +223,8 @@
                 "en": "Angelic gentle voice"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
-            "audioFileName": "sleep_ocean.mp3"
+            "audioFileName": "sleep_ocean.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_stream",
@@ -179,7 +237,8 @@
                 "en": "Cool forest serenity"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
-            "audioFileName": "sleep_stream.mp3"
+            "audioFileName": "sleep_stream.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_fire",
@@ -192,7 +251,8 @@
                 "en": "Warm tranquility"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
-            "audioFileName": "sleep_fire.mp3"
+            "audioFileName": "sleep_fire.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_med1",
@@ -205,7 +265,8 @@
                 "en": "Meditation calm"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png",
-            "audioFileName": "sleep_med1.mp3"
+            "audioFileName": "sleep_med1.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_med2",
@@ -218,7 +279,8 @@
                 "en": "Dissolving into space"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png",
-            "audioFileName": "sleep_med2.mp3"
+            "audioFileName": "sleep_med2.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_med3",
@@ -231,7 +293,8 @@
                 "en": "Warmth of motion"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png",
-            "audioFileName": "sleep_med3.mp3"
+            "audioFileName": "sleep_med3.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_med4",
@@ -244,7 +307,8 @@
                 "en": "Infinite distance"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png",
-            "audioFileName": "sleep_med4.mp3"
+            "audioFileName": "sleep_med4.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_med5",
@@ -257,7 +321,8 @@
                 "en": "Night fantasy"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg",
-            "audioFileName": "sleep_med5.mp3"
+            "audioFileName": "sleep_med5.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "sleep_piano",
@@ -270,7 +335,8 @@
                 "en": "Relaxation classics"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png",
-            "audioFileName": "sleep_piano.mp3"
+            "audioFileName": "sleep_piano.mp3",
+            "isLanguageAgnostic": true
         }
     ],
     "mantras": [
@@ -285,7 +351,8 @@
                 "en": "Powerful mantra of strength and health"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
-            "audioFileName": "om_adi.mp3"
+            "audioFileName": "om_adi.mp3",
+            "isLanguageAgnostic": true
         },
         {
             "id": "om_ganesha",
@@ -298,7 +365,8 @@
                 "en": "For wealth and luck"
             },
             "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
-            "audioFileName": "om_ganesha.mp3"
+            "audioFileName": "om_ganesha.mp3",
+            "isLanguageAgnostic": true
         }
     ]
 }
