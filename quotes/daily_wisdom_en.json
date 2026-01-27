@@ -1,0 +1,1352 @@
+[
+    {
+        "id": "q001",
+        "text": "We suffer more often in imagination than in reality.",
+        "author": "Seneca",
+        "years": "4 BC – 65 AD",
+        "image_file": "seneca.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q002",
+        "text": "Men are disturbed, not by things, but by the principles and notions which they form concerning things.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q003",
+        "text": "If a man knows not to which port he sails, no wind is favorable.",
+        "author": "Seneca",
+        "years": "4 BC – 65 AD",
+        "image_file": "seneca.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q004",
+        "text": "The best revenge is to be unlike him who performed the injury.",
+        "author": "Marcus Aurelius",
+        "years": "121 – 180 AD",
+        "image_file": "marcus_aurelius.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q005",
+        "text": "One who knows the truth is not the equal of one who loves it, and one who loves it is not the equal of one who takes joy in it.",
+        "author": "Confucius",
+        "years": "551 – 479 BC",
+        "image_file": "konfutsiy.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q006",
+        "text": "Everything that irritates us about others can lead us to an understanding of ourselves.",
+        "author": "Carl Jung",
+        "years": "1875 – 1961",
+        "image_file": "karl_gustav_yung.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q007",
+        "text": "Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.",
+        "author": "Sigmund Freud",
+        "years": "1856 – 1939",
+        "image_file": "zigmund_freyd.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q008",
+        "text": "Never part with your illusions. When they are gone you may still exist, but you have ceased to live.",
+        "author": "Mark Twain",
+        "years": "1835 – 1910",
+        "image_file": "mark_tven.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q009",
+        "text": "Most people are other people. Their thoughts are someone else's opinions, their lives a mimicry, their passions a quotation.",
+        "author": "Oscar Wilde",
+        "years": "1854 – 1900",
+        "image_file": "oskar_uayld.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q010",
+        "text": "If the problem can be solved why worry? If the problem cannot be solved worrying will do you no good.",
+        "author": "Shantideva",
+        "years": "8th century AD",
+        "image_file": "shantideva.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q011",
+        "text": "Awareness is paying attention in a particular way: on purpose, in the present moment, and nonjudgmentally.",
+        "author": "Jon Kabat-Zinn",
+        "years": "1944 – present",
+        "image_file": "jon_kabat_zinn.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q012",
+        "text": "Self-compassion involves treating yourself with the same kindness and care you would show to a friend.",
+        "author": "Kristin Neff",
+        "years": "1966 – present",
+        "image_file": "kristin_neff.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q013",
+        "text": "Much talk will of course come to a dead end. Better to at least observe the center.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q014",
+        "text": "One must either fight against injustice or collaborate with it.",
+        "author": "Albert Camus",
+        "years": "1913 – 1960",
+        "image_file": "alber_kamyu.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q015",
+        "text": "He who knows others is wise; he who knows himself is enlightened.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q016",
+        "text": "Remember, it is not enough to be hit or insulted to be harmed, you must believe that you are being harmed.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q017",
+        "text": "Attention is the rarest and purest form of generosity.",
+        "author": "Simone Weil",
+        "years": "1909 – 1943",
+        "image_file": "simone_weil.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q018",
+        "text": "Freedom consists in being able to do everything that does not harm another.",
+        "author": "Matthias Claudius",
+        "years": "1740 – 1815",
+        "image_file": "immanuil_kant.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q019",
+        "text": "Memory (Gedächtnis), like habit, is 'mechanical' or automatic.",
+        "author": "Georg Hegel",
+        "years": "1770 – 1831",
+        "image_file": "georg_gegel.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q020",
+        "text": "A man can be himself only so long as he is alone; and if he does not love solitude, he will not love liberty.",
+        "author": "Arthur Schopenhauer",
+        "years": "1788 – 1860",
+        "image_file": "artur_shopengauer.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q021",
+        "text": "When you argue with reality, you lose, but only 100% of the time.",
+        "author": "Byron Katie",
+        "years": "1942 – present",
+        "image_file": "byron_katie.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q022",
+        "text": "Nothing has a stronger influence psychologically on their children than the unlived life of the parent.",
+        "author": "Carl Jung",
+        "years": "1875 – 1961",
+        "image_file": "karl_gustav_yung.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q023",
+        "text": "A man's worth is no greater than the worth of his ambitions.",
+        "author": "Marcus Aurelius",
+        "years": "121 – 180 AD",
+        "image_file": "marcus_aurelius.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q024",
+        "text": "Waste no more time arguing about what a good man should be. Be one.",
+        "author": "Marcus Aurelius",
+        "years": "121 – 180 AD",
+        "image_file": "marcus_aurelius.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q025",
+        "text": "Fortune favors the bold (Audentis Fortuna iuvat).",
+        "author": "Seneca",
+        "years": "4 BC – 65 AD",
+        "image_file": "seneca.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q026",
+        "text": "Though one should conquer in battle thousands upon thousands of men, yet he who conquers himself is truly the greatest in battle.",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q027",
+        "text": "Health is by far the main thing for human happiness.",
+        "author": "Arthur Schopenhauer",
+        "years": "1788 – 1860",
+        "image_file": "artur_shopengauer.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q028",
+        "text": "No one believes in his own death, and in the unconscious everyone is convinced of his own immortality.",
+        "author": "Sigmund Freud",
+        "years": "1856 – 1939",
+        "image_file": "zigmund_freyd.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q029",
+        "text": "In love one always begins by deceiving oneself, and always ends by deceiving others. That is what the world calls a romance.",
+        "author": "Oscar Wilde",
+        "years": "1854 – 1900",
+        "image_file": "oskar_uayld.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q030",
+        "text": "Mental states (dhamma) are preceded by mind (manopubbangama), have mind as their master (manosettha), are created by mind (manomaya).",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q031",
+        "text": "This ideal and rational middle term is speech, the tool of reason, the child of intelligent beings.",
+        "author": "Georg Hegel",
+        "years": "1770 – 1831",
+        "image_file": "georg_gegel.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q032",
+        "text": "Thinking does not bring knowledge as do the sciences. Thinking does not yield usable, practical wisdom. Thinking does not solve the riddles of the universe.",
+        "author": "Hannah Arendt",
+        "years": "1906 – 1975",
+        "image_file": "hannah_arendt.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q033",
+        "text": "Radical Acceptance is the willingness to experience ourselves and our lives as they are.",
+        "author": "Tara Brach",
+        "years": "1953 – present",
+        "image_file": "tara_brach.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q034",
+        "text": "Part of being awake is slowing down enough to notice what we say or do.",
+        "author": "Pema Chodron",
+        "years": "1936 – present",
+        "image_file": "pema_chodron.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q035",
+        "text": "The greatest happiness of life is the conviction that we are loved; loved for ourselves, or rather, loved in spite of ourselves.",
+        "author": "Victor Hugo",
+        "years": "1802 – 1885",
+        "image_file": "seneca.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q036",
+        "text": "One must love life more than the meaning of life.",
+        "author": "Fyodor Dostoevsky",
+        "years": "1821 – 1881",
+        "image_file": "",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q037",
+        "text": "Selfishness is not living as one wishes to live, it is asking others to live as one wishes to live.",
+        "author": "Oscar Wilde",
+        "years": "1854 – 1900",
+        "image_file": "oskar_uayld.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q038",
+        "text": "Freedom is what we do with what is done to us.",
+        "author": "Jean-Paul Sartre",
+        "years": "1905 – 1980",
+        "image_file": "zhanpol_sartr.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q039",
+        "text": "See to it that you never act like a sheep; if you do, the man in you is destroyed.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q040",
+        "text": "While 'being' provides benefit, 'non-being' provides utility.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q041",
+        "text": "You will never live if you search for the meaning of life.",
+        "author": "Albert Camus",
+        "years": "1913 – 1960",
+        "image_file": "alber_kamyu.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q042",
+        "text": "Only the most wise and the most foolish do not change.",
+        "author": "Confucius",
+        "years": "551 – 479 BC",
+        "image_file": "konfutsiy.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q043",
+        "text": "I am likely to be a little bit wiser in this very thing: that what I do not know I do not even think I know.",
+        "author": "Socrates",
+        "years": "470 – 399 BC",
+        "image_file": "sokrat.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q044",
+        "text": "True life is lived when tiny changes occur.",
+        "author": "Leo Tolstoy",
+        "years": "1828 – 1910",
+        "image_file": "lev_tolstoy.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q045",
+        "text": "Begin at once to live, and count each separate day as a separate life.",
+        "author": "Seneca",
+        "years": "4 BC – 65 AD",
+        "image_file": "seneca.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q046",
+        "text": "I am my own freedom.",
+        "author": "Jean-Paul Sartre",
+        "years": "1905 – 1980",
+        "image_file": "zhanpol_sartr.png",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q047",
+        "text": "Liberty means responsibility. That is why most men dread it.",
+        "author": "George Bernard Shaw",
+        "years": "1856 – 1950",
+        "image_file": "",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q048",
+        "text": "The conqueror of men is powerful; the master of himself is strong.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q049",
+        "text": "If you love a clay pot, consider: 'I love a clay pot,' and then you will not be disturbed when it is broken.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q050",
+        "text": "It is impossible for a man to associate with one who is covered with soot without being covered with soot himself.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    {
+        "id": "q051",
+        "text": "The present moment is the only place where life is possible.",
+        "author": "Thich Nhat Hanh",
+        "years": "1926 – 2022",
+        "image_file": "thich_nhat_hanh.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q052",
+        "text": "You are not your mind.",
+        "author": "Eckhart Tolle",
+        "years": "1948 – present",
+        "image_file": "eckhart_tolle.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q053",
+        "text": "You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level.",
+        "author": "Eckhart Tolle",
+        "years": "1948 – present",
+        "image_file": "eckhart_tolle.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q054",
+        "text": "Nature does not hurry, yet everything is accomplished.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q055",
+        "text": "He who knows does not speak. He who speaks does not know.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q056",
+        "text": "All experiences are preceded by mind, led by mind, made by mind.",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q057",
+        "text": "The more habits a man has, the less he is free and independent.",
+        "author": "Immanuel Kant",
+        "years": "1724 – 1804",
+        "image_file": "immanuil_kant.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q058",
+        "text": "Everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances.",
+        "author": "Viktor Frankl",
+        "years": "1905 – 1997",
+        "image_file": "viktor_frankl.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q059",
+        "text": "The meaning of life is to give life meaning.",
+        "author": "Viktor Frankl",
+        "years": "1905 – 1997",
+        "image_file": "viktor_frankl.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q060",
+        "text": "If the absurd negates eternal freedom, it restores and magnifies my freedom of action.",
+        "author": "Albert Camus",
+        "years": "1913 – 1960",
+        "image_file": "alber_kamyu.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q061",
+        "text": "Thinking begins only when we have come to know that reason, glorified for centuries, is the most stiff-necked adversary of thought.",
+        "author": "Martin Heidegger",
+        "years": "1889 – 1976",
+        "image_file": "martin_haydegger.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q062",
+        "text": "Death, in the widest sense, is a phenomenon of life.",
+        "author": "Martin Heidegger",
+        "years": "1889 – 1976",
+        "image_file": "martin_haydegger.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q063",
+        "text": "The knowledge of the spirit is the most concrete and therefore the highest and most difficult.",
+        "author": "Georg Hegel",
+        "years": "1770 – 1831",
+        "image_file": "georg_gegel.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q064",
+        "text": "Only the spirit is the true, as the all-encompassing principle.",
+        "author": "Georg Hegel",
+        "years": "1770 – 1831",
+        "image_file": "georg_gegel.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q065",
+        "text": "Whatever is subject to origination is all subject to cessation.",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q066",
+        "text": "Suffering arises from attachment.",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q067",
+        "text": "Mindfulness is the path to the Deathless.",
+        "author": "Buddha",
+        "years": "563 – 483 BC",
+        "image_file": "buddha.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q068",
+        "text": "Live out your life as if you were now taking your leave of it.",
+        "author": "Marcus Aurelius",
+        "years": "121 – 180 AD",
+        "image_file": "marcus_aurelius.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q069",
+        "text": "The unexamined life is not worth living.",
+        "author": "Socrates",
+        "years": "470 – 399 BC",
+        "image_file": "sokrat.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q070",
+        "text": "Without music, life would be a mistake.",
+        "author": "Friedrich Nietzsche",
+        "years": "1844 – 1900",
+        "image_file": "fridrih_nitsshe.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q071",
+        "text": "It is only as an aesthetic phenomenon that existence and the world are eternally justified.",
+        "author": "Friedrich Nietzsche",
+        "years": "1844 – 1900",
+        "image_file": "fridrih_nitsshe.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q072",
+        "text": "Human life begins on the far side of despair.",
+        "author": "Jean-Paul Sartre",
+        "years": "1905 – 1980",
+        "image_file": "zhanpol_sartr.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q073",
+        "text": "Mindfulness is the practice of being fully present, returning home to ourselves.",
+        "author": "Thich Nhat Hanh",
+        "years": "1926 – 2022",
+        "image_file": "thich_nhat_hanh.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q074",
+        "text": "Wherever you are, be there completely.",
+        "author": "Eckhart Tolle",
+        "years": "1948 – present",
+        "image_file": "eckhart_tolle.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q075",
+        "text": "Allow yourself to be as you are. Let go of self-judgmental thoughts.",
+        "author": "Jon Kabat-Zinn",
+        "years": "1944 – present",
+        "image_file": "jon_kabat_zinn.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q076",
+        "text": "Just watch this moment, without trying to change it at all.",
+        "author": "Jon Kabat-Zinn",
+        "years": "1944 – present",
+        "image_file": "jon_kabat_zinn.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q077",
+        "text": "Two elements must be rooted out once for all: the fear of future suffering, and the recollection of past suffering.",
+        "author": "Seneca",
+        "years": "4 BC – 65 AD",
+        "image_file": "seneca.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q078",
+        "text": "Focus solely on what is within your control, and cultivate an attitude of indifference towards what is outside it.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q079",
+        "text": "True life is lived when tiny changes occur.",
+        "author": "Leo Tolstoy",
+        "years": "1828 – 1910",
+        "image_file": "lev_tolstoy.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q080",
+        "text": "One must live, one must love, one must believe.",
+        "author": "Leo Tolstoy",
+        "years": "1828 – 1910",
+        "image_file": "lev_tolstoy.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q081",
+        "text": "The Way is always non-doing, yet nothing is left undone.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q082",
+        "text": "The utility of a vessel comes from its empty interior.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q083",
+        "text": "From the point of view of youth, life is an endless future; from the point of view of old age, it is a very short past.",
+        "author": "Arthur Schopenhauer",
+        "years": "1788 – 1860",
+        "image_file": "artur_shopengauer.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q084",
+        "text": "A man can be himself only so long as he is alone.",
+        "author": "Arthur Schopenhauer",
+        "years": "1788 – 1860",
+        "image_file": "artur_shopengauer.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q085",
+        "text": "The more habits a man has, the less he is free and independent.",
+        "author": "Immanuel Kant",
+        "years": "1724 – 1804",
+        "image_file": "immanuil_kant.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q086",
+        "text": "No evil can happen to a good man, either in life or after death.",
+        "author": "Socrates",
+        "years": "470 – 399 BC",
+        "image_file": "sokrat.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q087",
+        "text": "The superior man is all-embracing and not partial.",
+        "author": "Confucius",
+        "years": "551 – 479 BC",
+        "image_file": "konfutsiy.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q088",
+        "text": "We are still not thinking, even though the state of the world is becoming more and more thought-provoking.",
+        "author": "Martin Heidegger",
+        "years": "1889 – 1976",
+        "image_file": "martin_haydegger.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q089",
+        "text": "It is a torture to live by a memory when that memory is no longer of any use.",
+        "author": "Albert Camus",
+        "years": "1913 – 1960",
+        "image_file": "alber_kamyu.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q090",
+        "text": "Stop looking for love. Simply be what you are looking for.",
+        "author": "Jeff Foster",
+        "years": "1977 – present",
+        "image_file": "",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q091",
+        "text": "The moment a man questions the meaning and value of life, he is sick, since objectively neither of them has any existence.",
+        "author": "Sigmund Freud",
+        "years": "1856 – 1939",
+        "image_file": "zigmund_freyd.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q092",
+        "text": "Language is the house of being.",
+        "author": "Martin Heidegger",
+        "years": "1889 – 1976",
+        "image_file": "martin_haydegger.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q093",
+        "text": "He who knows others is wise; he who knows himself is enlightened.",
+        "author": "Lao Tzu",
+        "years": "6th-5th century BC",
+        "image_file": "laotszy.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q094",
+        "text": "Spirituality, freedom, and responsibility are the three existentials of human existence.",
+        "author": "Viktor Frankl",
+        "years": "1905 – 1997",
+        "image_file": "viktor_frankl.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q095",
+        "text": "The best we can do is to recognize that happiness is the absence of pain.",
+        "author": "Arthur Schopenhauer",
+        "years": "1788 – 1860",
+        "image_file": "artur_shopengauer.png",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q096",
+        "text": "When you argue with reality, you lose — but only 100% of the time.",
+        "author": "Byron Katie",
+        "years": "1942 – present",
+        "image_file": "byron_katie.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q097",
+        "text": "Allow yourself to be as you are.",
+        "author": "Jon Kabat-Zinn",
+        "years": "1944 – present",
+        "image_file": "jon_kabat_zinn.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q098",
+        "text": "Remember, it is not enough to be hit or insulted to be harmed; you must believe that you are being harmed.",
+        "author": "Epictetus",
+        "years": "50 – 135 AD",
+        "image_file": "epictetus.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q099",
+        "text": "Now view the rest of your life as a bonus, and live it as nature directs, as if you were now dead.",
+        "author": "Marcus Aurelius",
+        "years": "121 – 180 AD",
+        "image_file": "marcus_aurelius.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "id": "q100",
+        "text": "Attention is the rarest and purest form of generosity.",
+        "author": "Simone Weil",
+        "years": "1909 – 1943",
+        "image_file": "simone_weil.jpg",
+        "phases": [
+            5,
+            6,
+            7,
+            8
+        ]
+    }
+]
