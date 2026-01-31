@@ -797,6 +797,636 @@
       "availableLanguages": [
         "ru"
       ]
+    },
+    {
+      "id": "med_clean_0",
+      "title": {
+        "ru": "Быстрое спокойствие",
+        "en": "Quick Calm"
+      },
+      "subtitle": {
+        "ru": "Момент тишины",
+        "en": "Moment of peace"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "10_minutes_meditation_mp3.mp3",
+      "audioUrl": {
+        "ru": "10_minutes_meditation_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_1",
+      "title": {
+        "ru": "Фокус ума",
+        "en": "Focus Mind"
+      },
+      "subtitle": {
+        "ru": "Кристальная ясность",
+        "en": "Pure mental clarity"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "10_minute_meditation_to_focus_the_mind_mp3.mp3",
+      "audioUrl": {
+        "ru": "10_minute_meditation_to_focus_the_mind_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_2",
+      "title": {
+        "ru": "Красивый релакс",
+        "en": "Beautiful Relax"
+      },
+      "subtitle": {
+        "ru": "Нежный поток",
+        "en": "Soft soothing flow"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "10_min_beautiful_relaxing_music_mp3.mp3",
+      "audioUrl": {
+        "ru": "10_min_beautiful_relaxing_music_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_3",
+      "title": {
+        "ru": "Внутренний мир",
+        "en": "Inner Peace"
+      },
+      "subtitle": {
+        "ru": "Состояние покоя",
+        "en": "Reflective mood"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "2022_endyearsvcann_mp3.mp3",
+      "audioUrl": {
+        "ru": "2022_endyearsvcann_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_4",
+      "title": {
+        "ru": "Глубокий сон",
+        "en": "Deep Sleep"
+      },
+      "subtitle": {
+        "ru": "Погружение в грезы",
+        "en": "Drift into dreams"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "30_minute_relaxing_sleep_music_calm_music_soft_mus_mp3.mp3",
+      "audioUrl": {
+        "ru": "30_minute_relaxing_sleep_music_calm_music_soft_mus_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_5",
+      "title": {
+        "ru": "Позитивная энергия",
+        "en": "Positive Energy"
+      },
+      "subtitle": {
+        "ru": "Исцеляющий свет",
+        "en": "Healing light"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "30_min_meditation_music_for_positive_energy_healin_mp3.mp3",
+      "audioUrl": {
+        "ru": "30_min_meditation_music_for_positive_energy_healin_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_6",
+      "title": {
+        "ru": "Цветение сливы",
+        "en": "Red Plum Blossom"
+      },
+      "subtitle": {
+        "ru": "Ветер востока",
+        "en": "Eastern wind"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "beautiful_chinese_music31traditionalthe_red_plum_b_mp3.mp3",
+      "audioUrl": {
+        "ru": "beautiful_chinese_music31traditionalthe_red_plum_b_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_7",
+      "title": {
+        "ru": "Ощущение тела",
+        "en": "Body Scan"
+      },
+      "subtitle": {
+        "ru": "Полная осознанность",
+        "en": "Full awareness"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "bodyscanmeditationmcullen_mp3.mp3",
+      "audioUrl": {
+        "ru": "bodyscanmeditationmcullen_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_8",
+      "title": {
+        "ru": "Forest creek.mp",
+        "en": "Forest creek.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "forest_creek.mp3",
+      "audioUrl": {
+        "ru": "forest_creek.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_9",
+      "title": {
+        "ru": "Внутреннее зрение",
+        "en": "Inner Vision"
+      },
+      "subtitle": {
+        "ru": "Пробуждение интуиции",
+        "en": "Awaken intuition"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "instant_third_eye_stimulation_m1_warning_very_po_mp3.mp3",
+      "audioUrl": {
+        "ru": "instant_third_eye_stimulation_m1_warning_very_po_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_10",
+      "title": {
+        "ru": "Утренний свет",
+        "en": "Morning Light"
+      },
+      "subtitle": {
+        "ru": "Новое начало",
+        "en": "New beginning"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "md001meditation_mp3.mp3",
+      "audioUrl": {
+        "ru": "md001meditation_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_11",
+      "title": {
+        "ru": "Тибетская сила",
+        "en": "Tibetan Power"
+      },
+      "subtitle": {
+        "ru": "Священный звук",
+        "en": "Sacred sound"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "most_powerful_tibetan_mantra_buddhist_meditation_m_mp3.mp3",
+      "audioUrl": {
+        "ru": "most_powerful_tibetan_mantra_buddhist_meditation_m_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_12",
+      "title": {
+        "ru": "Ocean waves.mp",
+        "en": "Ocean waves.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "ocean_waves.mp3",
+      "audioUrl": {
+        "ru": "ocean_waves.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_13",
+      "title": {
+        "ru": "Дух джунглей",
+        "en": "Jungle Spirit"
+      },
+      "subtitle": {
+        "ru": "Дыхание природы",
+        "en": "Nature's breath"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "relaxing_yoga_music_jungle_song_morning_relax_medi_mp3.mp3",
+      "audioUrl": {
+        "ru": "relaxing_yoga_music_jungle_song_morning_relax_medi_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_14",
+      "title": {
+        "ru": "Sleep fire.mp",
+        "en": "Sleep fire.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_fire.mp3",
+      "audioUrl": {
+        "ru": "sleep_fire.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_15",
+      "title": {
+        "ru": "Sleep med.mp",
+        "en": "Sleep med.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_med1.mp3",
+      "audioUrl": {
+        "ru": "sleep_med1.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_16",
+      "title": {
+        "ru": "Sleep med.mp",
+        "en": "Sleep med.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_med2.mp3",
+      "audioUrl": {
+        "ru": "sleep_med2.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_17",
+      "title": {
+        "ru": "Sleep med.mp",
+        "en": "Sleep med.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_med3.mp3",
+      "audioUrl": {
+        "ru": "sleep_med3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_18",
+      "title": {
+        "ru": "Sleep med.mp",
+        "en": "Sleep med.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_med4.mp3",
+      "audioUrl": {
+        "ru": "sleep_med4.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_19",
+      "title": {
+        "ru": "Sleep med.mp",
+        "en": "Sleep med.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_med5.mp3",
+      "audioUrl": {
+        "ru": "sleep_med5.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_20",
+      "title": {
+        "ru": "Sleep ocean.mp",
+        "en": "Sleep ocean.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_ocean.mp3",
+      "audioUrl": {
+        "ru": "sleep_ocean.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_21",
+      "title": {
+        "ru": "Sleep piano.mp",
+        "en": "Sleep piano.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_piano.mp3",
+      "audioUrl": {
+        "ru": "sleep_piano.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_22",
+      "title": {
+        "ru": "Sleep rain.mp",
+        "en": "Sleep rain.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_rain.mp3",
+      "audioUrl": {
+        "ru": "sleep_rain.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_23",
+      "title": {
+        "ru": "Sleep stream.mp",
+        "en": "Sleep stream.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "sleep_stream.mp3",
+      "audioUrl": {
+        "ru": "sleep_stream.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_24",
+      "title": {
+        "ru": "Starry night.mp",
+        "en": "Starry night.mp"
+      },
+      "subtitle": {
+        "ru": "Расслабление",
+        "en": "Relaxation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "starry_night.mp3",
+      "audioUrl": {
+        "ru": "starry_night.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_25",
+      "title": {
+        "ru": "Древняя мудрость",
+        "en": "Ancient Wisdom"
+      },
+      "subtitle": {
+        "ru": "Вечные слова",
+        "en": "Timeless words"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "theyogasutrasofpatanjali01johnson_mp3.mp3",
+      "audioUrl": {
+        "ru": "theyogasutrasofpatanjali01johnson_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_26",
+      "title": {
+        "ru": "Буддийское пение",
+        "en": "Buddhist Chant"
+      },
+      "subtitle": {
+        "ru": "Духовный путь",
+        "en": "Spiritual path"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "tibetan_mantra_buddhist_meditation_music_mp3.mp3",
+      "audioUrl": {
+        "ru": "tibetan_mantra_buddhist_meditation_music_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_27",
+      "title": {
+        "ru": "Горный ветер",
+        "en": "Mountain Wind"
+      },
+      "subtitle": {
+        "ru": "Эхо вершин",
+        "en": "Echo of peaks"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "wayra_love_mountain_wayra_teh_wind_mega_media_mp3.mp3",
+      "audioUrl": {
+        "ru": "wayra_love_mountain_wayra_teh_wind_mega_media_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_28",
+      "title": {
+        "ru": "Патанджали",
+        "en": "Patanjali"
+      },
+      "subtitle": {
+        "ru": "Поток мысли",
+        "en": "Flow of thought"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "yogasutras01patanjali_mp3.mp3",
+      "audioUrl": {
+        "ru": "yogasutras01patanjali_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_clean_29",
+      "title": {
+        "ru": "Момент Дзен",
+        "en": "Zen Moment"
+      },
+      "subtitle": {
+        "ru": "Абсолютная тишина",
+        "en": "Absolute silence"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "epochId": 0,
+      "fileName": "zenmeditation_mp3.mp3",
+      "audioUrl": {
+        "ru": "zenmeditation_mp3.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
     }
   ],
   "sleep_stories": [
