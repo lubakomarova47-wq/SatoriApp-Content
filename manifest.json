@@ -1,372 +1,379 @@
 {
-    "meditations": [
+  "meditations": [
+    {
+      "id": "med_pokoi",
+      "title": {
+        "ru": "Медитация покоя",
+        "en": "Peace meditation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png",
+      "epochId": 4,
+      "audioUrl": {
+        "ru": "med_pokoi.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_odnj",
+      "title": {
+        "ru": "Осознанная медитация на расслабление живота",
+        "en": "Mindful belly relaxation meditation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png",
+      "epochId": 4,
+      "audioUrl": {
+        "ru": "med_odnj.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_new",
+      "title": {
+        "ru": "На дыхание и тело",
+        "en": "Breath and body"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png",
+      "epochId": 2,
+      "voiceVariants": [
         {
-            "id": "med_pokoi",
-            "title": {
-                "ru": "Медитация покоя",
-                "en": "Peace meditation"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_pokoi.png",
-            "epochId": 4,
-            "audioUrl": {
-                "ru": "med_pokoi.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
+          "gender": "female",
+          "title": {
+            "ru": "Женский голос",
+            "en": "Female voice"
+          },
+          "audioUrl": {
+            "ru": "med_new_female.mp3",
+            "en": null
+          }
         },
         {
-            "id": "med_odnj",
-            "title": {
-                "ru": "Осознанная медитация на расслабление живота",
-                "en": "Mindful belly relaxation meditation"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_odnj.png",
-            "epochId": 4,
-            "audioUrl": {
-                "ru": "med_odnj.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
-        },
-        {
-            "id": "med_new",
-            "title": {
-                "ru": "На дыхание и тело",
-                "en": "Breath and body"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_new.png",
-            "epochId": 2,
-            "voiceVariants": [
-                {
-                    "gender": "female",
-                    "title": {
-                        "ru": "Женский голос",
-                        "en": "Female voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_new_female.mp3",
-                        "en": null
-                    }
-                },
-                {
-                    "gender": "male",
-                    "title": {
-                        "ru": "Мужской голос",
-                        "en": "Male voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_new_male.mp3",
-                        "en": null
-                    }
-                }
-            ],
-            "audioUrl": {
-                "ru": "med_new_female.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
-        },
-        {
-            "id": "med_breath",
-            "title": {
-                "ru": "На дыхание",
-                "en": "Breath focus"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_breath.png",
-            "epochId": 0,
-            "voiceVariants": [
-                {
-                    "gender": "female",
-                    "title": {
-                        "ru": "Женский голос",
-                        "en": "Female voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_breath_female.mp3",
-                        "en": null
-                    }
-                },
-                {
-                    "gender": "male",
-                    "title": {
-                        "ru": "Мужской голос",
-                        "en": "Male voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_breath_male.mp3",
-                        "en": null
-                    }
-                }
-            ],
-            "audioUrl": {
-                "ru": "med_breath_female.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
-        },
-        {
-            "id": "med_body",
-            "title": {
-                "ru": "На ощущения в теле",
-                "en": "Body sensations"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_body.png",
-            "epochId": 1,
-            "voiceVariants": [
-                {
-                    "gender": "female",
-                    "title": {
-                        "ru": "Женский голос",
-                        "en": "Female voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_body_female.mp3",
-                        "en": null
-                    }
-                },
-                {
-                    "gender": "male",
-                    "title": {
-                        "ru": "Мужской голос",
-                        "en": "Male voice"
-                    },
-                    "audioUrl": {
-                        "ru": "med_body_male.mp3",
-                        "en": null
-                    }
-                }
-            ],
-            "audioUrl": {
-                "ru": "med_body_female.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
-        },
-        {
-            "id": "med_istina",
-            "title": {
-                "ru": "Медитация истинного Я",
-                "en": "True self meditation"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png",
-            "epochId": 7,
-            "audioUrl": {
-                "ru": "med_istina.mp3",
-                "en": null
-            },
-            "availableLanguages": [
-                "ru"
-            ]
+          "gender": "male",
+          "title": {
+            "ru": "Мужской голос",
+            "en": "Male voice"
+          },
+          "audioUrl": {
+            "ru": "med_new_male.mp3",
+            "en": null
+          }
         }
-    ],
-    "sleep_stories": [
+      ],
+      "audioUrl": {
+        "ru": "med_new_female.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_breath",
+      "title": {
+        "ru": "На дыхание",
+        "en": "Breath focus"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_breath.png",
+      "epochId": 0,
+      "voiceVariants": [
         {
-            "id": "forest_creek",
-            "title": {
-                "ru": "Засыпающий лес",
-                "en": "Sleepy forest"
-            },
-            "subtitle": {
-                "ru": "Успокаивающие звуки",
-                "en": "Soothing sounds"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
-            "audioFileName": "forest_creek.mp3",
-            "isLanguageAgnostic": true
+          "gender": "female",
+          "title": {
+            "ru": "Женский голос",
+            "en": "Female voice"
+          },
+          "audioUrl": {
+            "ru": "med_breath_female.mp3",
+            "en": null
+          }
         },
         {
-            "id": "starry_night",
-            "title": {
-                "ru": "Звездная ночь",
-                "en": "Starry night"
-            },
-            "subtitle": {
-                "ru": "Космическая колыбельная",
-                "en": "Cosmic lullaby"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
-            "audioFileName": "starry_night.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_rain",
-            "title": {
-                "ru": "Мелодия дождя",
-                "en": "Rain melody"
-            },
-            "subtitle": {
-                "ru": "Дождливое настроение",
-                "en": "Rainy mood"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
-            "audioFileName": "sleep_rain.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_ocean",
-            "title": {
-                "ru": "Мелодия океана",
-                "en": "Ocean melody"
-            },
-            "subtitle": {
-                "ru": "Ангельский нежный голос",
-                "en": "Angelic gentle voice"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
-            "audioFileName": "sleep_ocean.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_stream",
-            "title": {
-                "ru": "Лесной ручей",
-                "en": "Forest stream"
-            },
-            "subtitle": {
-                "ru": "Покой прохладного леса",
-                "en": "Cool forest serenity"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
-            "audioFileName": "sleep_stream.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_fire",
-            "title": {
-                "ru": "Тепло у камина",
-                "en": "Fireplace warmth"
-            },
-            "subtitle": {
-                "ru": "Теплый покой",
-                "en": "Warm tranquility"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
-            "audioFileName": "sleep_fire.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_med1",
-            "title": {
-                "ru": "Глубокий покой",
-                "en": "Deep peace"
-            },
-            "subtitle": {
-                "ru": "Спокойствие медитации",
-                "en": "Meditation calm"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png",
-            "audioFileName": "sleep_med1.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_med2",
-            "title": {
-                "ru": "Просторная тема",
-                "en": "Spacious theme"
-            },
-            "subtitle": {
-                "ru": "Растворение в пространстве",
-                "en": "Dissolving into space"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png",
-            "audioFileName": "sleep_med2.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_med3",
-            "title": {
-                "ru": "Уютный путь",
-                "en": "Cozy journey"
-            },
-            "subtitle": {
-                "ru": "Тепло движения",
-                "en": "Warmth of motion"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png",
-            "audioFileName": "sleep_med3.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_med4",
-            "title": {
-                "ru": "Дальний космос",
-                "en": "Deep space"
-            },
-            "subtitle": {
-                "ru": "Безграничная даль",
-                "en": "Infinite distance"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png",
-            "audioFileName": "sleep_med4.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_med5",
-            "title": {
-                "ru": "Лунный сон",
-                "en": "Lunar dream"
-            },
-            "subtitle": {
-                "ru": "Фантазия ночи",
-                "en": "Night fantasy"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg",
-            "audioFileName": "sleep_med5.mp3",
-            "isLanguageAgnostic": true
-        },
-        {
-            "id": "sleep_piano",
-            "title": {
-                "ru": "Приятные клавиши",
-                "en": "Pleasant keys"
-            },
-            "subtitle": {
-                "ru": "Классика расслабления",
-                "en": "Relaxation classics"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png",
-            "audioFileName": "sleep_piano.mp3",
-            "isLanguageAgnostic": true
+          "gender": "male",
+          "title": {
+            "ru": "Мужской голос",
+            "en": "Male voice"
+          },
+          "audioUrl": {
+            "ru": "med_breath_male.mp3",
+            "en": null
+          }
         }
-    ],
-    "mantras": [
+      ],
+      "audioUrl": {
+        "ru": "med_breath_female.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_body",
+      "title": {
+        "ru": "На ощущения в теле",
+        "en": "Body sensations"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/med_body.png",
+      "epochId": 1,
+      "voiceVariants": [
         {
-            "id": "om_adi",
-            "title": {
-                "ru": "Мантра Ади Шакти",
-                "en": "Adi Shakti mantra"
-            },
-            "subtitle": {
-                "ru": "Мощная мантра силы и здоровья",
-                "en": "Powerful mantra of strength and health"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
-            "audioFileName": "om_adi.mp3",
-            "isLanguageAgnostic": true
+          "gender": "female",
+          "title": {
+            "ru": "Женский голос",
+            "en": "Female voice"
+          },
+          "audioUrl": {
+            "ru": "med_body_female.mp3",
+            "en": null
+          }
         },
         {
-            "id": "om_ganesha",
-            "title": {
-                "ru": "Мантра Ганеша",
-                "en": "Ganesha mantra"
-            },
-            "subtitle": {
-                "ru": "На богатство и удачу",
-                "en": "For wealth and luck"
-            },
-            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
-            "audioFileName": "om_ganesha.mp3",
-            "isLanguageAgnostic": true
+          "gender": "male",
+          "title": {
+            "ru": "Мужской голос",
+            "en": "Male voice"
+          },
+          "audioUrl": {
+            "ru": "med_body_male.mp3",
+            "en": null
+          }
         }
-    ]
+      ],
+      "audioUrl": {
+        "ru": "med_body_female.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    },
+    {
+      "id": "med_istina",
+      "title": {
+        "ru": "Медитация истинного Я",
+        "en": "True self meditation"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/mk_istina.png",
+      "epochId": 7,
+      "audioUrl": {
+        "ru": "med_istina.mp3",
+        "en": null
+      },
+      "availableLanguages": [
+        "ru"
+      ]
+    }
+  ],
+  "sleep_stories": [
+    {
+      "id": "forest_creek",
+      "title": {
+        "ru": "Засыпающий лес",
+        "en": "Sleepy forest"
+      },
+      "subtitle": {
+        "ru": "Успокаивающие звуки",
+        "en": "Soothing sounds"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_forest2.jpg",
+      "audioFileName": "forest_creek.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "starry_night",
+      "title": {
+        "ru": "Звездная ночь",
+        "en": "Starry night"
+      },
+      "subtitle": {
+        "ru": "Космическая колыбельная",
+        "en": "Cosmic lullaby"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stars.jpg",
+      "audioFileName": "starry_night.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_rain",
+      "title": {
+        "ru": "Мелодия дождя",
+        "en": "Rain melody"
+      },
+      "subtitle": {
+        "ru": "Дождливое настроение",
+        "en": "Rainy mood"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_rain.jpg",
+      "audioFileName": "sleep_rain.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_ocean",
+      "title": {
+        "ru": "Мелодия океана",
+        "en": "Ocean melody"
+      },
+      "subtitle": {
+        "ru": "Ангельский нежный голос",
+        "en": "Angelic gentle voice"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_ocean1.jpg",
+      "audioFileName": "sleep_ocean.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_stream",
+      "title": {
+        "ru": "Лесной ручей",
+        "en": "Forest stream"
+      },
+      "subtitle": {
+        "ru": "Покой прохладного леса",
+        "en": "Cool forest serenity"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_stream.jpg",
+      "audioFileName": "sleep_stream.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_fire",
+      "title": {
+        "ru": "Тепло у камина",
+        "en": "Fireplace warmth"
+      },
+      "subtitle": {
+        "ru": "Теплый покой",
+        "en": "Warm tranquility"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_fire.jpg",
+      "audioFileName": "sleep_fire.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_med1",
+      "title": {
+        "ru": "Глубокий покой",
+        "en": "Deep peace"
+      },
+      "subtitle": {
+        "ru": "Спокойствие медитации",
+        "en": "Meditation calm"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med1.png",
+      "audioFileName": "sleep_med1.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_med2",
+      "title": {
+        "ru": "Просторная тема",
+        "en": "Spacious theme"
+      },
+      "subtitle": {
+        "ru": "Растворение в пространстве",
+        "en": "Dissolving into space"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med2.png",
+      "audioFileName": "sleep_med2.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_med3",
+      "title": {
+        "ru": "Уютный путь",
+        "en": "Cozy journey"
+      },
+      "subtitle": {
+        "ru": "Тепло движения",
+        "en": "Warmth of motion"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med3.png",
+      "audioFileName": "sleep_med3.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_med4",
+      "title": {
+        "ru": "Дальний космос",
+        "en": "Deep space"
+      },
+      "subtitle": {
+        "ru": "Безграничная даль",
+        "en": "Infinite distance"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med4.png",
+      "audioFileName": "sleep_med4.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_med5",
+      "title": {
+        "ru": "Лунный сон",
+        "en": "Lunar dream"
+      },
+      "subtitle": {
+        "ru": "Фантазия ночи",
+        "en": "Night fantasy"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_med5.jpg",
+      "audioFileName": "sleep_med5.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_piano",
+      "title": {
+        "ru": "Приятные клавиши",
+        "en": "Pleasant keys"
+      },
+      "subtitle": {
+        "ru": "Классика расслабления",
+        "en": "Relaxation classics"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/sleep_piano.png",
+      "audioFileName": "sleep_piano.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "sleep_1769872767984",
+      "title": "Photorealistic Dream",
+      "subtitle": "Photorealistic AI",
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/gen_sleep_real_1769872767844.jpg",
+      "audioFileName": "forest_creek.mp3"
+    }
+  ],
+  "mantras": [
+    {
+      "id": "om_adi",
+      "title": {
+        "ru": "Мантра Ади Шакти",
+        "en": "Adi Shakti mantra"
+      },
+      "subtitle": {
+        "ru": "Мощная мантра силы и здоровья",
+        "en": "Powerful mantra of strength and health"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_adi.jpg",
+      "audioFileName": "om_adi.mp3",
+      "isLanguageAgnostic": true
+    },
+    {
+      "id": "om_ganesha",
+      "title": {
+        "ru": "Мантра Ганеша",
+        "en": "Ganesha mantra"
+      },
+      "subtitle": {
+        "ru": "На богатство и удачу",
+        "en": "For wealth and luck"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/om_ganesha.jpg",
+      "audioFileName": "om_ganesha.mp3",
+      "isLanguageAgnostic": true
+    }
+  ]
 }
