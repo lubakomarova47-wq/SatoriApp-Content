@@ -1,0 +1,164 @@
+{
+    "music": [
+        {
+            "id": "sleep_1",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Тихий лес",
+                "en": "Quiet Forest"
+            },
+            "subtitle": {
+                "ru": "Звуки природы для сна",
+                "en": "Nature sounds for sleep"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_1.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_1.mp3",
+            "durationMinutes": 10,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_2",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Океанские волны",
+                "en": "Ocean Waves"
+            },
+            "subtitle": {
+                "ru": "Расслабляющий прибой",
+                "en": "Relaxing surf"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_2.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_2.mp3",
+            "durationMinutes": 30,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_3",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Ночной дождь",
+                "en": "Night Rain"
+            },
+            "subtitle": {
+                "ru": "Мягкий шум капель",
+                "en": "Soft raindrops"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_3.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_3.mp3",
+            "durationMinutes": 30,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_4",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Горный ручей",
+                "en": "Mountain Stream"
+            },
+            "subtitle": {
+                "ru": "Журчание воды",
+                "en": "Babbling brook"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_4.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_4.mp3",
+            "durationMinutes": 20,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_5",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Тёплый камин",
+                "en": "Warm Fireplace"
+            },
+            "subtitle": {
+                "ru": "Потрескивание огня",
+                "en": "Crackling fire"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_5.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_5.mp3",
+            "durationMinutes": 10,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_6",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Космическая тишина",
+                "en": "Cosmic Silence"
+            },
+            "subtitle": {
+                "ru": "Звуки глубокого космоса",
+                "en": "Deep space sounds"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_6.jpg",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_6.mp3",
+            "durationMinutes": 30,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_7",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Ночные сверчки",
+                "en": "Night Crickets"
+            },
+            "subtitle": {
+                "ru": "Летняя ночь",
+                "en": "Summer night"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_7.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_7.mp3",
+            "durationMinutes": 15,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_8",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Мягкое пианино",
+                "en": "Soft Piano"
+            },
+            "subtitle": {
+                "ru": "Нежные мелодии",
+                "en": "Gentle melodies"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_8.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_8.mp3",
+            "durationMinutes": 8,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_9",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Звёздная ночь",
+                "en": "Starry Night"
+            },
+            "subtitle": {
+                "ru": "Космическая колыбельная",
+                "en": "Cosmic lullaby"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_9.png",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_9.mp3",
+            "durationMinutes": 10,
+            "isLanguageAgnostic": true
+        },
+        {
+            "id": "sleep_10",
+            "contentType": "SOUNDSCAPE",
+            "title": {
+                "ru": "Глубокий покой",
+                "en": "Deep Peace"
+            },
+            "subtitle": {
+                "ru": "Полное расслабление",
+                "en": "Total relaxation"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/Sleep/sleep_10.jpg",
+            "audioUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/sleep/sleep_10.mp3",
+            "durationMinutes": 15,
+            "isLanguageAgnostic": true
+        }
+    ]
+}

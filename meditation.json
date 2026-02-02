@@ -1,0 +1,208 @@
+{
+    "practices": [
+        {
+            "id": "med_breath",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "На дыхание",
+                "en": "Breath focus"
+            },
+            "description": {
+                "ru": "Базовая медитация для новичков с фокусом на дыхании",
+                "en": "Basic meditation for beginners focusing on breath"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/med_breath.png",
+            "durationMinutes": 10,
+            "epochId": 0,
+            "voiceVariants": [
+                {
+                    "gender": "female",
+                    "title": {
+                        "ru": "Женский голос",
+                        "en": "Female voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_breath_female.mp3",
+                        "en": null
+                    }
+                },
+                {
+                    "gender": "male",
+                    "title": {
+                        "ru": "Мужской голос",
+                        "en": "Male voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_breath_male.mp3",
+                        "en": null
+                    }
+                }
+            ],
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_breath_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "med_body",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "На ощущения в теле",
+                "en": "Body sensations"
+            },
+            "description": {
+                "ru": "Осознанная медитация на телесные ощущения",
+                "en": "Mindful meditation on body sensations"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/med_body.png",
+            "durationMinutes": 10,
+            "epochId": 1,
+            "voiceVariants": [
+                {
+                    "gender": "female",
+                    "title": {
+                        "ru": "Женский голос",
+                        "en": "Female voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_body_female.mp3",
+                        "en": null
+                    }
+                },
+                {
+                    "gender": "male",
+                    "title": {
+                        "ru": "Мужской голос",
+                        "en": "Male voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_body_male.mp3",
+                        "en": null
+                    }
+                }
+            ],
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_body_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "med_new",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "На дыхание и тело",
+                "en": "Breath and body"
+            },
+            "description": {
+                "ru": "Комбинированная медитация на дыхание и тело",
+                "en": "Combined meditation on breath and body"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/med_new.png",
+            "durationMinutes": 12,
+            "epochId": 2,
+            "voiceVariants": [
+                {
+                    "gender": "female",
+                    "title": {
+                        "ru": "Женский голос",
+                        "en": "Female voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_new_female.mp3",
+                        "en": null
+                    }
+                },
+                {
+                    "gender": "male",
+                    "title": {
+                        "ru": "Мужской голос",
+                        "en": "Male voice"
+                    },
+                    "audioUrl": {
+                        "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_new_male.mp3",
+                        "en": null
+                    }
+                }
+            ],
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_new_female.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "med_pokoi",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "Медитация покоя",
+                "en": "Peace meditation"
+            },
+            "description": {
+                "ru": "Глубокая медитация для достижения внутреннего покоя",
+                "en": "Deep meditation for inner peace"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/mk_pokoi.png",
+            "durationMinutes": 15,
+            "epochId": 4,
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_pokoi.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "med_odnj",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "Осознанная медитация на расслабление живота",
+                "en": "Mindful belly relaxation meditation"
+            },
+            "description": {
+                "ru": "Техника расслабления через осознание живота",
+                "en": "Relaxation technique through belly awareness"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/mk_odnj.png",
+            "durationMinutes": 15,
+            "epochId": 4,
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_odnj.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        },
+        {
+            "id": "med_istina",
+            "contentType": "MEDITATION",
+            "title": {
+                "ru": "Медитация истинного Я",
+                "en": "True self meditation"
+            },
+            "description": {
+                "ru": "Продвинутая медитация для познания истинного Я",
+                "en": "Advanced meditation for true self discovery"
+            },
+            "imageUrl": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/images/meditations/mk_istina.png",
+            "durationMinutes": 18,
+            "epochId": 7,
+            "audioUrl": {
+                "ru": "https://raw.githubusercontent.com/lubakomarova47-wq/SatoriApp-Content/main/audio/meditations/med_istina.mp3",
+                "en": null
+            },
+            "availableLanguages": [
+                "ru"
+            ]
+        }
+    ]
+}
